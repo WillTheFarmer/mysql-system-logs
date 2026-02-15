@@ -1,4 +1,4 @@
-# MySQL or MariaDB schema for Linux-based system log data
+# MySQL or MariaDB schema for Linux-based system log files
 
 Now Python re-write and SQL has separate repository there is another database I've been building.
 
