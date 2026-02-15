@@ -8,7 +8,7 @@ Database schema 7 day snapshot designed for system logs for Linux-based servers.
 
 Same Typescript Node.js Web interface works on BOTH http and system logs.
 
-# MySQL or MariaDB database schema for Linux-based system log data analysis
+## MySQL or MariaDB database schema for Linux-based system log data analysis
 
 ## Visual Interface App
 in my development queue is [mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts) a Web interface for the database schema in Typescript.
