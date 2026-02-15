@@ -1,4 +1,5 @@
-# MySQL or MariaDB schema for Linux-based system log files
+## MySQL or MariaDB schema for Linux-based system log files - LOAD DATA tables
+![LOAD DATA tables](./images/system_logs_load_tables.png)
 
 Now Python re-write and SQL has separate repository there is another database I've been building.
 
