@@ -8,7 +8,7 @@
 -- #
 -- # version 0.0.1 - 02/15/2026 - schema is 7 day snapshot Linux-based system files - see changelog
 -- #
--- # CHANGELOG.md in repository - https://github.com/WillTheFarmer/mysql-schema-system-logs
+-- # CHANGELOG.md in repository - https://github.com/WillTheFarmer/mysql-system-logs
 -- #
 -- requires minimum versions MySQL 8.0.41 or MariaDB 10.5.26
 -- synopsis: Data Definition (DDL) & Data Manipulation (DML) for MySQL & MariaDB schema

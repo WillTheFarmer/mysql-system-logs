@@ -10,9 +10,9 @@ Same Typescript Node.js Web interface works on BOTH http and system logs.
 # Database designed for Linux-based system log data analysis
 
 ## Visual Interface App
-in my development queue is [mysql-to-apache-echarts](https://github.com/willthefarmer/mysql-to-apache-echarts) a Web interface for the database schema in Typescript.
+in my development queue is [mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts) a Web interface for the database schema in Typescript.
 
-[mysql-to-apache-echarts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a ***visualization tool*** built with [Express](https://github.com/expressjs/express) web application frameworks and [W2UI](https://github.com/vitmalina/w2ui) drill-down data grids for ***data point details*** while [Apache ECharts](https://github.com/apache/echarts) frameworks is for Data Visualization.
+[mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts) is a ***visualization tool*** built with [Express](https://github.com/expressjs/express) web application frameworks and [W2UI](https://github.com/vitmalina/w2ui) drill-down data grids for ***data point details*** while [Apache ECharts](https://github.com/apache/echarts) frameworks is for Data Visualization.
 
 ## Other Documents
 [Installation Instructions](INSTALL.md)
