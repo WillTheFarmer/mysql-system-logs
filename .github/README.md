@@ -1,4 +1,4 @@
-## MySQL or MariaDB | Linux-based system log files | LOAD DATA tables
+## Linux-based system log files | multi-server ingestion | LOAD DATA tables
 ![LOAD DATA tables](./images/system_logs_load_tables.png)
 
 Now Python re-write and SQL has separate repository there is another database I've been building.
@@ -8,7 +8,7 @@ Database schema 7 day snapshot designed for system logs for Linux-based servers.
 
 Same Typescript Node.js Web interface works on BOTH http and system logs.
 
-# Database designed for Linux-based system log data analysis
+# MySQL or MariaDB database schema for Linux-based system log data analysis
 
 ## Visual Interface App
 in my development queue is [mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts) a Web interface for the database schema in Typescript.
