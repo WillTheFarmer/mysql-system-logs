@@ -2,7 +2,7 @@
 
 Now Python re-write and SQL has separate repository there is another database I've been building.
 
-Additional sub-processes can be added to log-files-to-mysql import process.
+Additional sub-processes can be added to files-to-mysql import process.
 Database schema 7 day snapshot designed for system logs for Linux-based servers. This retention time is adjustable. 
 
 Same Typescript Node.js Web interface works on BOTH http and system logs.
