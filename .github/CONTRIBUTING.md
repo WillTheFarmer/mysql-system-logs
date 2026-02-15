@@ -1,0 +1,15 @@
+If you find this code useful please contribute a :star: to the repository.
+
+To contribute Issues or Errors found using application please create a `New issue` under repository `Issues` tab. 
+
+To contribute Ideas or Comments please create a `New discussion` under repository `Discussions` tab.
+
+To contribute HTTP Access or Error Log Formats commonly used that application should process please start `New discussion`.
+
+If you find this repository valuable to your database application development monetary contributions are appreciated. Repository has my ***Buy Me a Coffee*** :coffee: link.
+
+Monetary :moneybag: contributions made will encourage [Web Interface](https://github.com/WillTheFarmer/mysql-to-apache-echarts) repository development continuation for this MySQL or MariaDB schema populated by [log-files-to-mysql](https://github.com/willthefarmer/http-logs-to-mysql) repository.
+
+This repository exists because I volunteer at local nonprofit that provides food and clothing for those in need. The Director is familiar with MySQL and wanted to import Apache website logs into MySQL tables. At that meeting I knew little about Apache but lots about MySQL. I thought it would be a couple days to research existing solutions and offered to investigate.
+
+Surprisingly none I found performed any data normalization and were very primitive. The lack of existing relational database open-source solutions led to creation of this solution.
